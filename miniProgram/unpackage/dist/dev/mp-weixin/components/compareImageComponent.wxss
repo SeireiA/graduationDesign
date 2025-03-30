@@ -1,0 +1,113 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.imgComparison.data-v-53dcd9d0 {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+.imgComparison .before-image.data-v-53dcd9d0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 50%;
+  overflow: hidden;
+}
+.imgComparison .before-image .before-text.data-v-53dcd9d0 {
+  position: absolute;
+  left: 10rpx;
+  bottom: 10rpx;
+  color: #FFFFFF;
+  background-color: #2D2D2D;
+  padding: 2rpx 8rpx 4rpx 6rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  white-space: nowrap;
+}
+.imgComparison .after-image.data-v-53dcd9d0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+.imgComparison .after-image .after-text.data-v-53dcd9d0 {
+  position: absolute;
+  right: 10rpx;
+  bottom: 10rpx;
+  color: #FFFFFF;
+  background-color: #2D2D2D;
+  padding: 2rpx 8rpx 4rpx 6rpx;
+  border-radius: 8rpx;
+  font-size: 24rpx;
+  white-space: nowrap;
+}
+.imgComparison .images.data-v-53dcd9d0 {
+  width: 100%;
+  height: 100%;
+}
+.imgComparison .slider-bar.data-v-53dcd9d0 {
+  cursor: move;
+  position: absolute;
+  width: 4rpx;
+  left: 50%;
+  top: 0rpx;
+  background: #FFFFFF;
+  height: 100%;
+  display: block;
+  z-index: 2;
+  box-shadow: 0 0 20rpx 1px rgba(0, 0, 0, 0.4);
+}
+.imgComparison .slider-bar .slider-button.data-v-53dcd9d0 {
+  position: absolute;
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 50%;
+  border: 4rpx solid #FFFFFF;
+  background-color: transparent;
+  left: calc(50% - 30rpx);
+  top: calc(50% - 30rpx);
+}
+.imgComparison .slider-bar.data-v-53dcd9d0::before {
+  content: "";
+  padding: 6rpx;
+  border: solid #FFFFFF;
+  border-width: 0 4rpx 4rpx 0;
+  position: absolute;
+  top: calc(50% - 8rpx);
+  left: calc(50% - 16rpx);
+  transform: rotate(135deg);
+  z-index: 1;
+}
+.imgComparison .slider-bar.data-v-53dcd9d0::after {
+  content: "";
+  padding: 6rpx;
+  border: solid #FFFFFF;
+  border-width: 0 4rpx 4rpx 0;
+  position: absolute;
+  top: calc(50% - 8rpx);
+  left: 50%;
+  transform: rotate(-45deg);
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ad.js","sources":["api/ad.js"],"sourcesContent":["import request from './../utils/request';\n\nexport function reqRewarded() {\n    return request({\n        url: '/ad/rewarded',\n        method: 'POST'\n    })\n}\n\n"],"names":["request"],"mappings":";;AAEO,SAAS,cAAc;AAC1B,SAAOA,sBAAQ;AAAA,IACX,KAAK;AAAA,IACL,QAAQ;AAAA,EAChB,CAAK;AACL;;"}

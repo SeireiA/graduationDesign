@@ -1,0 +1,1 @@
+<view class="generated data-v-a8cb7132" bindtap="{{c}}"><view class="data-v-a8cb7132"><view class="btn data-v-a8cb7132">{{a}}</view><view class="stars data-v-a8cb7132"><lottie-animation-component wx:if="{{b}}" class="data-v-a8cb7132" u-i="a8cb7132-0" bind:__l="__l" u-p="{{b}}"/></view></view></view>

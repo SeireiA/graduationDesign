@@ -1,0 +1,1 @@
+<view class="empty-container" style="{{'height:' + c}}"><view><image src="{{a}}" class="empty-image"/><view class="empty-title">{{b}}</view></view></view>

@@ -1,0 +1,1 @@
+<view class="container data-v-b510a51d" style="{{'padding-top:' + c}}"><view class="setting data-v-b510a51d" bindtap="{{b}}"><image class="data-v-b510a51d" src="{{a}}"/></view><view class="occupancy data-v-b510a51d"><view class="data-v-b510a51d"/></view></view>

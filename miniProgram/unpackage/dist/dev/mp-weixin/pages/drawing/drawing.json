@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top-component": "./component/topComponent",
+    "workflows-component": "./component/workflowsComponent",
+    "loading-data-component": "../../components/loadingDataComponent",
+    "empty-data-component": "../../components/emptyDataComponent",
+    "drawing-disguise-component": "../../components/disguise/drawingDisguiseComponent"
+  }
+}

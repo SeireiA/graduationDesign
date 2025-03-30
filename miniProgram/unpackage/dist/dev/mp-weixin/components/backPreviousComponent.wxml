@@ -1,0 +1,1 @@
+<view class="backBar data-v-9b80432b" style="{{'margin-top:' + b + ';' + ('height:' + c)}}" bindtap="{{d}}"><view class="data-v-9b80432b"><uni-icons wx:if="{{a}}" class="data-v-9b80432b" u-i="9b80432b-0" bind:__l="__l" u-p="{{a}}"></uni-icons></view><view class="data-v-9b80432b">返回</view></view>

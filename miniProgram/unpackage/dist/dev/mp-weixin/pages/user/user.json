@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "user-info-component": "./component/userInfoComponent",
+    "login-component": "./component/loginComponent",
+    "workspace-component": "./component/workspaceComponent",
+    "loading-data-component": "../../components/loadingDataComponent",
+    "top-button-component": "../../components/topButtonComponent"
+  }
+}

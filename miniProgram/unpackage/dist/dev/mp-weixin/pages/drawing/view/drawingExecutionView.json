@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "submit-button-component": "../../../components/submitButtonComponent",
+    "back-previous-component": "../../../components/backPreviousComponent"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"privacyPolicyView.js","sources":["D:/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvc2V0dGluZy92aWV3L3ByaXZhY3lQb2xpY3lWaWV3LnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'E:/0/beifen/0/0Files/2025答辩/ts-ts/miniProgram/pages/setting/view/privacyPolicyView.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

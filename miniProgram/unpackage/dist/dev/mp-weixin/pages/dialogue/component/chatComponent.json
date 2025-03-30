@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mp-html": "../../../components/mp-html/components/mp-html/mp-html",
+    "file-preview-component": "./filePreviewComponent",
+    "ai-loading-component": "./aiLoadingComponent",
+    "upload-choose-component": "./uploadChooseComponent",
+    "input-component": "./inputComponent"
+  }
+}

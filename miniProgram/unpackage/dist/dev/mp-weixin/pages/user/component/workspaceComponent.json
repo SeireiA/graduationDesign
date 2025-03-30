@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom-waterfalls-flow": "../../../uni_modules/custom-waterfalls-flow/components/custom-waterfalls-flow/custom-waterfalls-flow",
+    "empty-data-component": "../../../components/emptyDataComponent"
+  }
+}

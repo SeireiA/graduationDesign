@@ -1,0 +1,23 @@
+
+.container.data-v-c11e3c36 {
+  position: fixed;
+  right: -60rpx;
+  top: 60vh;
+  z-index: 2
+}
+.container > view.data-v-c11e3c36 {
+  border: 3rpx solid #464646;
+  padding-left: 15rpx;
+  height: 90rpx;
+  width: 140rpx;
+  background:#1d1d1d;
+  border-radius: 100rpx;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center
+}
+.container image.data-v-c11e3c36 {
+  width: 60rpx;
+  height: 60rpx;
+}
+

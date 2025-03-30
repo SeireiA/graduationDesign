@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/dialogue/dialogue",
+    "pages/drawing/drawing",
+    "pages/user/user",
+    "pages/drawing/view/drawingPreviewView",
+    "pages/drawing/view/drawingExecutionView",
+    "pages/drawing/view/drawingFormView",
+    "pages/drawing/view/drawingDetailsView",
+    "pages/setting/setting",
+    "pages/dialogue/view/chatTopicView",
+    "pages/dialogue/view/settingView",
+    "pages/dialogue/view/changeModelView",
+    "pages/setting/view/userAgreementView",
+    "pages/setting/view/privacyPolicyView",
+    "pages/setting/view/personalInformationView"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "TYPE STARS",
+    "navigationBarBackgroundColor": "#161817",
+    "backgroundColor": "#161817"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "selectedColor": "#ffffff",
+    "color": "#7e7e7f",
+    "list": [
+      {
+        "pagePath": "pages/dialogue/dialogue",
+        "iconPath": "static/tabbar/dialogue.png",
+        "selectedIconPath": "static/tabbar/dialogue.png",
+        "text": "聊天"
+      },
+      {
+        "pagePath": "pages/drawing/drawing",
+        "iconPath": "static/tabbar/drawing.png",
+        "selectedIconPath": "static/tabbar/drawing.png",
+        "text": "生成"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tabbar/itSMine.png",
+        "selectedIconPath": "static/tabbar/itSMine.png",
+        "text": "个人"
+      }
+    ],
+    "backgroundColor": "#1d1d1d"
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

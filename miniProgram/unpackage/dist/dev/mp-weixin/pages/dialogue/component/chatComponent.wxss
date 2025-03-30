@@ -1,0 +1,120 @@
+
+.fixed-file.data-v-bb0f8800 {
+  position: fixed;
+  top: 82vh;
+  z-index: 999;
+  left: 20rpx;
+}
+.user-chat.data-v-bb0f8800 {
+  display: flex;
+  justify-content: flex-end;
+  color: black;
+}
+.chat-file.data-v-bb0f8800 {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 90rpx;
+  margin-top: 15rpx
+}
+.user-chat-background.data-v-bb0f8800 {
+  font-size: 26rpx;
+  max-width: 600rpx;
+  background-color: #27b561;
+  margin-right: 20rpx;
+  border-radius: 20rpx;
+}
+.user-chat-background view.data-v-bb0f8800 {
+  padding: 20rpx;
+  word-wrap: break-word;
+  color: black;
+}
+.user-chat image.data-v-bb0f8800 {
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 100%
+}
+.ai-chat.data-v-bb0f8800 {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  margin-bottom: 80rpx
+}
+.ai-avatar.data-v-bb0f8800 {
+  margin-top: 8rpx;
+  width: 70rpx;
+  height: 70rpx;
+
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+.ai-avatar image.data-v-bb0f8800 {
+  width: 70rpx;
+  height: 70rpx
+}
+.ai-chat-container.data-v-bb0f8800 {
+  margin-left: 20rpx;
+}
+.ai-name.data-v-bb0f8800 {
+  font-weight: 550;
+  margin-bottom: 10rpx;
+  font-size: 23rpx;
+  color: #5f5f5f
+}
+.ai-chat-background.data-v-bb0f8800 {
+  font-size: 26rpx;
+  max-width: 600rpx;
+  background-color: rgb(40, 40, 40);
+  border-radius: 20rpx;
+  color: white
+}
+.ai-content.data-v-bb0f8800 {
+  word-wrap: break-word;
+  padding: 0 20rpx
+}
+.ai-loading.data-v-bb0f8800 {
+
+  padding: 0 20rpx;
+  background-color: rgb(40, 40, 40);
+
+  border-radius: 20rpx;
+}
+.scroll.data-v-bb0f8800 {
+  height: 78vh
+}
+.content.data-v-bb0f8800 {
+  padding-bottom: 30rpx
+}
+.slide-animation.data-v-bb0f8800 {
+  animation: slideEase-bb0f8800 0.5s ease-in-out forwards;
+}
+@keyframes slideEase-bb0f8800 {
+0% {
+    transform: translateX(-100px);
+}
+100% {
+    transform: translateX(0);
+}
+}
+.icon.data-v-bb0f8800 {
+  padding-top: 35vh;
+  animation: fadeIn 0.5s ease-in-out forwards;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon > view.data-v-bb0f8800 {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75rpx;
+  height: 75rpx;
+
+  border-radius: 100%
+}
+.icon image.data-v-bb0f8800 {
+  width: 75rpx;
+  height: 75rpx;
+}

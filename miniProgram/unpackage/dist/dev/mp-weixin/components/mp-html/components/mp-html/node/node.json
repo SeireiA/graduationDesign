@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "my-audio": "../audio/audio",
+    "my-card": "../card/card",
+    "node": "./node"
+  }
+}

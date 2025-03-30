@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "backgroundColorTop": "#161817",
+  "backgroundColorBottom": "#161817",
+  "usingComponents": {
+    "chat-component": "./component/chatComponent",
+    "levitation-component": "./component/levitationComponent",
+    "navigation-component": "./component/navigationComponent",
+    "dialogue-disguise-component": "../../components/disguise/dialogueDisguiseComponent"
+  }
+}
