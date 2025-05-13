@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SeireiA/graduationDesign)
+
 # TYPE STARS
 
 ### 项目说明
