@@ -55,8 +55,3 @@
 > > 因为ts-system模块还在修正，所以目前上传工作流方法寄存在了ts-drawing模块中，找到接口 `parsingWorkflowsJson解析工作流文件`
 > > `updateWorkflows上传工作流接口`
 
-### 如果项目对你有帮助支持一下吧~
-<img src="./.img/fc13279ee05a8bbe67da04ee9a30244.jpg" style="width: 200px;height: 200px">
-
-<img src="./.img/52ff217a597965d00405a3d6d9ffd00.jpg" style="width: 200px;height: 200px">
-
